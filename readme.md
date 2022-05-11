@@ -22,7 +22,7 @@ Enjoy with your favorites PoKeMonS !!!! :)
 
 
 🎇🎇 Visit the site in github Pages
-![Poke-Api](https://avilarino.github.io/pokedex-api-js/)
+https://avilarino.github.io/pokedex-api-js
 
 
 Follow Me  🙌  ☎️
